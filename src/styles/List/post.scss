@@ -1,0 +1,47 @@
+.btnRemove {
+  background-image: url('../../public/img/close.png');
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+}
+
+.dataPost {
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 170px 0 65px;
+  box-sizing: border-box;
+}
+
+.text {
+  font-size: 29px;
+  margin: 0 67px;
+  word-break: break-all;
+  width: 650px;
+  max-width: 650px;
+  overflow: auto;
+  max-height: 100px;
+  height: 100px;
+}
+
+.btnAddComment {
+  width: 30%;
+  height: 48px;
+  margin: 0 0 10px 35px;
+  background-color: #1861a2;
+  font-size: 18px;
+  color: inherit;
+  border: 3px solid #fff;
+  border-radius: 16px;
+
+  &:hover {
+    cursor: pointer;
+    background-color: #05347e;
+  }
+}
