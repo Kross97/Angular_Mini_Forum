@@ -61,15 +61,16 @@
   color: #fff;
   background-color: inherit;
   border: 3px solid #4082bc;
+  cursor: pointer;
 
   &:hover {
-    cursor: pointer;
     background-color: #6c9eca;
   }
 }
 
 .btnDisabled {
   background-color: #89c3f7;
+  cursor: alias;
 }
 
 .btnReset {

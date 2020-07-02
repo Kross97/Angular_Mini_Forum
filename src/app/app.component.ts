@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
   styles: [`:host {
       width: 100%;
       display: inline-block;
-      height: 800px;
+      height: 937px;
       background-color: #17212b;
       position: relative;
   }`],

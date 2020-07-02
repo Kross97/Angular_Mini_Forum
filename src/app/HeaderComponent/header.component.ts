@@ -5,6 +5,7 @@ import head from '../../styles/Header.scss';
   selector: 'nav-header',
   template: `<header class=${head.container}>
     <button (click)="changeShowState()" type="button">Добавить пост</button>
+    <aside></aside>
   </header>`,
 })
 

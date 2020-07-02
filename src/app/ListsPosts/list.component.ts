@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { Store, select } from '@ngrx/store';
 import { IAppState } from '../Global_Interface';
 import list from '../../styles/List/list.scss';
+import { PostsHttpService } from '../postHttp.service';
 
 @Component({
   selector: 'list-posts',
@@ -24,12 +25,16 @@ export class ListComponent {
 
   allPosts: any;
 
-  constructor(store: Store<{ state: IAppState}>) {
+  constructor(store: Store<{ state: IAppState}>, private postService: PostsHttpService) {
     store.pipe(select('state')).subscribe((data: IAppState) => {
       this.allPostsStore = data.allPosts;
       this.allPosts = this.allPostsStore
         ? this.allPostsStore.ids.map((id: number) => this.allPostsStore.entities[id])
         : [];
     });
+  }
+
+  ngOnInit() {
+    this.postService.getPosts();
   }
 }

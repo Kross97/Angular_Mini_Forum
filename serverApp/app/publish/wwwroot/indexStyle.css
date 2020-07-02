@@ -1,0 +1,33 @@
+﻿body {
+    background-image: url("./back.jpg");
+}
+
+.container {
+    width: 700px;
+    height: 330px;
+    background-color: #17212B;
+    margin: 15% auto;
+    color: #fff;
+    font-size: 25px;
+    border: 6px solid gray;
+    text-align: center;
+}
+
+.container  a{
+    width: 200px;
+    display: block;
+    height: 70px;
+    margin: 0 auto;
+    background-color: #4082BC;
+    text-align: center;
+    align-content: start;
+    padding-top: 17px;
+    box-sizing: border-box;
+    border: 6px solid gray;
+    border-radius: 26px;
+    text-decoration: none;
+}
+
+    .container a:hover {
+        background-color: #58A5E8;
+    }

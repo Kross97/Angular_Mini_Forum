@@ -1,0 +1,444 @@
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ServerApp.exe
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ServerApp.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ServerApp.pdb
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Castle.Core.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.AspNetCore.Razor.Language.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Bcl.HashCode.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.CodeAnalysis.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.CodeAnalysis.CSharp.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.CodeAnalysis.Razor.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Data.SqlClient.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Data.Sqlite.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.EntityFrameworkCore.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.EntityFrameworkCore.Design.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Caching.Memory.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Configuration.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Configuration.Binder.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.DependencyInjection.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.DependencyModel.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Logging.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Options.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Extensions.Primitives.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.Identity.Client.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\dotnet-aspnet-codegenerator-design.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\Newtonsoft.Json.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\NuGet.Frameworks.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\SQLitePCLRaw.batteries_v2.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\SQLitePCLRaw.nativelibrary.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\SQLitePCLRaw.core.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Collections.Immutable.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Composition.AttributedModel.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Composition.Convention.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Composition.Hosting.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Composition.Runtime.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Composition.TypedParts.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Configuration.ConfigurationManager.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Diagnostics.DiagnosticSource.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Runtime.Caching.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Security.Cryptography.ProtectedData.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\System.Text.Json.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\de\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\es\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\it\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win-arm64\native\sni.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win-x64\native\sni.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win-x86\native\sni.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win-arm\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win-x64\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win-x86\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\ServerApp\app\build\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\build\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\app\build\app\publish\app\publish\ServerApp.runtimeconfig.json
+D:\app\build\app\build\app\publish\app\build\app\publish\web.config
+D:\app\build\app\build\app\publish\app\publish\web.config
+D:\app\build\app\build\app\publish\web.config
+D:\app\build\app\publish\app\build\app\publish\web.config
+D:\app\build\app\publish\app\publish\web.config
+D:\app\build\app\publish\web.config
+D:\app\build\appsettings.Development.json
+D:\app\build\appsettings.json
+D:\app\build\app\build\appsettings.Development.json
+D:\app\build\app\build\appsettings.json
+D:\app\build\app\build\app\publish\appsettings.Development.json
+D:\app\build\app\build\app\publish\appsettings.json
+D:\app\build\app\build\app\publish\app\build\appsettings.Development.json
+D:\app\build\app\build\app\publish\app\build\appsettings.json
+D:\app\build\app\build\app\publish\app\build\app\publish\appsettings.Development.json
+D:\app\build\app\build\app\publish\app\build\app\publish\appsettings.json
+D:\app\build\app\build\app\publish\app\build\app\publish\ServerApp.deps.json
+D:\app\build\app\build\app\publish\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\app\build\app\build\app\publish\app\build\Properties\launchSettings.json
+D:\app\build\app\build\app\publish\app\build\ServerApp.deps.json
+D:\app\build\app\build\app\publish\app\build\ServerApp.runtimeconfig.dev.json
+D:\app\build\app\build\app\publish\app\build\ServerApp.runtimeconfig.json
+D:\app\build\app\build\app\publish\app\publish\appsettings.Development.json
+D:\app\build\app\build\app\publish\app\publish\appsettings.json
+D:\app\build\app\build\app\publish\app\publish\ServerApp.deps.json
+D:\app\build\app\build\app\publish\app\publish\ServerApp.runtimeconfig.json
+D:\app\build\app\build\app\publish\ServerApp.deps.json
+D:\app\build\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\app\build\app\build\Properties\launchSettings.json
+D:\app\build\app\build\ServerApp.deps.json
+D:\app\build\app\build\ServerApp.runtimeconfig.dev.json
+D:\app\build\app\build\ServerApp.runtimeconfig.json
+D:\app\build\app\publish\appsettings.Development.json
+D:\app\build\app\publish\appsettings.json
+D:\app\build\app\publish\app\build\appsettings.Development.json
+D:\app\build\app\publish\app\build\appsettings.json
+D:\app\build\app\publish\app\build\app\publish\appsettings.Development.json
+D:\app\build\app\publish\app\build\app\publish\appsettings.json
+D:\app\build\app\publish\app\build\app\publish\ServerApp.deps.json
+D:\app\build\app\publish\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\app\build\app\publish\app\build\Properties\launchSettings.json
+D:\app\build\app\publish\app\build\ServerApp.deps.json
+D:\app\build\app\publish\app\build\ServerApp.runtimeconfig.dev.json
+D:\app\build\app\publish\app\build\ServerApp.runtimeconfig.json
+D:\app\build\app\publish\app\publish\appsettings.Development.json
+D:\app\build\app\publish\app\publish\appsettings.json
+D:\app\build\app\publish\app\publish\ServerApp.deps.json
+D:\app\build\app\publish\app\publish\ServerApp.runtimeconfig.json
+D:\app\build\app\publish\ServerApp.deps.json
+D:\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\app\build\Properties\launchSettings.json
+D:\app\build\ServerApp.exe
+D:\app\build\ServerApp.deps.json
+D:\app\build\ServerApp.runtimeconfig.json
+D:\app\build\ServerApp.runtimeconfig.dev.json
+D:\app\build\ServerApp.dll
+D:\app\build\ServerApp.pdb
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\web.config
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\build\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\build\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\build\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\build\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\build\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\publish\appsettings.Development.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\publish\appsettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\app\publish\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ServerApp.exe
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ServerApp.deps.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ServerApp.runtimeconfig.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ServerApp.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ServerApp.pdb
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Castle.Core.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.csproj.CopyComplete
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.dll
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.pdb
+D:\Обучение програмированию\DEX Technology\Mini_Forum\serverApp\obj\Release\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache

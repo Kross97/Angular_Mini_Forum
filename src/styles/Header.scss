@@ -1,6 +1,7 @@
 .container {
   background-color: #17212b;
   height: 70px;
+  position: relative;
 
   & button {
     width: 250px;
@@ -14,5 +15,16 @@
   & button:hover {
     background-color: #4b9de6;
     cursor: pointer;
+  }
+
+  & aside {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 0;
+  left: 49.5%;
+  background-image: url('../public/img/angular.png');
+  background-repeat: no-repeat;
+  background-size: contain;
   }
 }

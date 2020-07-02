@@ -1,0 +1,52 @@
+.container {
+  & span {
+    display: block;
+    margin-bottom: 12px;
+  }
+
+  & span:nth-of-type(1) {
+    font-size: 25px;
+    margin-left: 4px;
+  }
+
+  & button {
+    background-image: url('../../public/img/close.png');
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    width: 14px;
+    height: 13px;
+    position: absolute;
+    top: 11px;
+    right: 15px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0;
+  }
+}
+
+.commentForm {
+  & input {
+    width: 96%;
+    height: 31px;
+    font-size: 16px;
+    color: black;
+    padding: 0 10px 0 10px;
+    box-sizing: border-box;
+  }
+
+  & button {
+    width: 50%;
+    height: 33px;
+    font-size: 19px;
+    color: #fff;
+    background-color: #1861a2;
+    border: 3px solid #fff;
+    border-radius: 10px;
+  }
+
+  & button:hover {
+    background-color: #1f89e8;
+    cursor: pointer;
+  }
+}

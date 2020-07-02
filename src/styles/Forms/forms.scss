@@ -8,13 +8,29 @@
 .formItem {
   width: 75%;
   background-color: #4082bc;
-  margin: 31px auto 50px;
-  height: 300px;
+  margin: 31px auto 69px;
+  height: 320px;
   border: 7px solid #fff;
   border-radius: 20px;
   font-size: 22px;
   color: seashell;
   text-align: center;
+
+ & button {
+  width: 20%;
+  height: 33px;
+  font-size: 19px;
+  color: #fff;
+  background-color: inherit;
+  border: 3px solid #fff;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+& button:hover {
+  background-color: #1861a2;
+  cursor: pointer;
+ }
 
   & input {
     width: 85%;

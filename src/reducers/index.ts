@@ -17,6 +17,7 @@ export const allPosts = createReducer(
     idPostEdit: id,
   })),
   on(actions.changeDataPost, (state, { update }: any) => postsAdapter.updateOne(update, state)),
+  on(actions.loadingPosts, (state, { posts }: any) => postsAdapter.setAll(posts, state)),
 );
 
 const usersAdapter = createEntityAdapter<IUser>();
@@ -25,13 +26,26 @@ export const allUsers = createReducer(
   usersAdapter.getInitialState(),
   on(actions.addUser, (state, { user }) => usersAdapter.addOne(user, state)),
   on(actions.changeDataUser, (state, { update }: any) => usersAdapter.updateOne(update, state)),
+  on(actions.loadingUsers, (state, { users }: any) => usersAdapter.setAll(users, state)),
+  on(actions.removeComment, actions.removePost,
+    (state, { userId }: any) => usersAdapter.removeOne(userId, state)),
 );
 
 const commentsAdapter = createEntityAdapter<IComment>();
 
 export const allComments = createReducer(
-  commentsAdapter.getInitialState(),
+  commentsAdapter.getInitialState({
+    idCommentEdit: 0,
+  }),
+  on(actions.loadingComments, (state, { comments }: any) => (
+    commentsAdapter.setAll(comments, state))),
   on(actions.addComment, (state, { comment }) => commentsAdapter.addOne(comment, state)),
+  on(actions.removeComment, (state, { id }: any) => commentsAdapter.removeOne(id, state)),
+  on(actions.changeDataComment, (state, { update }) => commentsAdapter.updateOne(update, state)),
+  on(actions.setCommentOnEdit, (state, { id }) => ({
+    ...state,
+    idCommentEdit: id,
+  })),
 );
 export const reducer = combineReducers({
   allPosts,
