@@ -1,4 +1,4 @@
-# Angular_Mini_Forum
+# Angular_Mini_Forum (Angular \ C#) второй из серии форумов (fullstack)
 
 (Технологии: 1.@ngrx/entity(createEntityAdapter), 2.normalizr.js, 3.@angular/core, 4.@angular/common/http, 5.@angular/forms, 6.RxJs, 7.@ngrx/store)
 
